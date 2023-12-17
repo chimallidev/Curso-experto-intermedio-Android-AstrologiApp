@@ -6,8 +6,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.chimallidigital.astrologiapp.databinding.FragmentQuiromanciaBinding
+import dagger.hilt.android.AndroidEntryPoint
 
-
+@AndroidEntryPoint
 class QuiromanciaFragment : Fragment() {
     private var _binding: FragmentQuiromanciaBinding? = null
     private val binding get() = _binding!!
