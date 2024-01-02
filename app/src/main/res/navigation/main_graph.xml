@@ -9,7 +9,11 @@
         android:id="@+id/horoscopoFragment"
         android:name="com.chimallidigital.astrologiapp.ui.horoscopo.HoroscopoFragment"
         android:label="fragment_horoscopo"
-        tools:layout="@layout/fragment_horoscopo" />
+        tools:layout="@layout/fragment_horoscopo" >
+        <action
+            android:id="@+id/action_horoscopoFragment_to_detallesHoroscopoActivity"
+            app:destination="@id/detallesHoroscopoActivity" />
+    </fragment>
     <fragment
         android:id="@+id/suerteFragment"
         android:name="com.chimallidigital.astrologiapp.ui.suerte.SuerteFragment"
@@ -20,4 +24,13 @@
         android:name="com.chimallidigital.astrologiapp.ui.quiromancia.QuiromanciaFragment"
         android:label="fragment_quiromancia"
         tools:layout="@layout/fragment_quiromancia" />
+    <activity
+        android:id="@+id/detallesHoroscopoActivity"
+        android:name="com.chimallidigital.astrologiapp.ui.detalles.DetallesHoroscopoActivity"
+        android:label="activity_detalles_horoscopo"
+        tools:layout="@layout/activity_detalles_horoscopo" >
+        <argument
+            android:name="type"
+            app:argType="com.chimallidigital.astrologiapp.domain.model.HoroscopoModel" />
+    </activity>
 </navigation>

@@ -4,6 +4,70 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/primario"
     tools:context=".ui.detalles.DetallesHoroscopoActivity">
+
+
+    <ImageView
+        android:id="@+id/ivDetalles"
+        android:layout_width="0dp"
+        android:layout_height="300dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:background="@color/rojo">
+
+    </ImageView>
+    <ImageView
+        android:id="@+id/ivBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:padding="24dp"
+        app:tint="@color/gold"
+        android:src="@drawable/ic_back">
+
+    </ImageView>
+
+
+    <TextView
+        android:id="@+id/tvDetallesTitulo"
+        style="@style/Horoscopo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ivDetalles"
+        tools:text="Chimalli Digital">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/tvBody"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvDetallesTitulo"
+        android:layout_margin="24dp"
+        android:gravity="center"
+        style="@style/body"
+        tools:text="asas asa dsds sds sd sadsa sad s sad saddasd sadsadasdsa sad
+sadsadasdsadsadasd sdsa dsd sa sd d sd sdsdsdas s dasdsads sfgfhg ghf">
+
+    </TextView>
+    <ProgressBar
+        android:id="@+id/pb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvDetallesTitulo"
+        android:indeterminateTint="@color/gold">
+
+    </ProgressBar>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
