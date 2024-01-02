@@ -20,4 +20,75 @@
     <string name="capricornio">Capricornio</string>
     <string name="acuario">Acuario</string>
     <string name="piscis">Piscis</string>
+
+<!--Suerte-->
+    <string name="share">Compartir</string>
+
+<!--Predicciones-->
+    <string name="suerte_0">Enfréntate a los desafíos con la serenidad de un estoico;
+        la fortuna te sonríe este mes, como las estrellas que guían a un héroe en su travesía.</string>
+    <string name="suerte_1">Como el sol en el firmamento, tu determinación brilla con fuerza;
+        la paciencia será tu aliada para superar obstáculos y alcanzar tus metas.</string>
+    <string name="suerte_2">Recuerda, el cosmos no siempre revela sus secretos de inmediato;
+        como Neil deGrasse Tyson dice, "La naturaleza no siempre es sencilla, pero siempre es comprensible."</string>
+    <string name="suerte_3">Tu destino está tejido por los hilos del tiempo;
+        abraza el presente con la sabiduría de un estoico y forja tu propio camino estelar.</string>
+    <string name="suerte_4">Como en un juego épico, tu misión se revela lentamente;
+        persevera, pues "el conocimiento es poder" según Francis Bacon, y tu poder crecerá.</string>
+    <string name="suerte_5">En la vastedad del universo, encuentra tu centro y equilibrio interior;
+        como Carl Sagan dijo, "Somos polvo de estrellas', y llevamos esa chispa cósmica."</string>
+    <string name="suerte_6">La fortuna favorece a quienes saben esperar;
+        como una partida estratégica, tu paciencia será recompensada con grandes logros.</string>
+    <string name="suerte_7">En la danza de los planetas, encuentra la armonía en la discordia;
+        como un filósofo estoico, acepta lo que no puedes cambiar y transforma lo que puedas.</string>
+    <string name="suerte_8">Recuerda las palabras de Marco Aurelio: "No puedes tener un mejor mañana si estás pensando en ayer";
+        enfócate en el presente para construir un futuro prometedor.</string>
+    <string name="suerte_9">Al igual que un jugador hábil, utiliza tus recursos sabiamente;
+        como en la astronomía, la alineación correcta puede desencadenar cambios significativos.</string>
+    <string name="suerte_10">En la vastedad del espacio, descubre la grandeza en la humildad;
+        como lo expresó Carl Sagan, "La humildad es el antídoto contra el ego desmesurado".</string>
+    <string name="suerte_11">La luna refleja la luz del sol incluso en la oscuridad;
+        encuentra inspiración en la adversidad y florece como una flor en la noche.</string>
+    <string name="suerte_12">Como en un juego de estrategia, adapta tu táctica a los cambios cósmicos;
+        sé flexible, como las estrellas que bailan en el firmamento.</string>
+    <string name="suerte_13">Abraza la incertidumbre como un explorador del cosmos; como dijo Edwin Hubble,
+        "La aventura del conocimiento debe comenzar con la certeza del no saber."</string>
+    <string name="suerte_14">En tu travesía estelar, recuerda que "el tiempo es relativo",
+        según Einstein; gestiona tu tiempo sabiamente y cosecharás frutos duraderos.</string>
+    <string name="suerte_15">La resistencia ante las tormentas cósmicas te fortalecerá; como una nave espacial,
+        confía en tu capacidad para navegar a través de las turbulentas corrientes de la vida.</string>
+    <string name="suerte_16">Como las leyes de Kepler, tus esfuerzos seguirán orbitando alrededor del éxito;
+        mantén la constancia y verás resultados asombrosos.</string>
+    <string name="suerte_17">Recuerda, la paciencia es el arte de la esperanza;
+        como un buen jugador, espera el momento adecuado para avanzar con determinación.</string>
+    <string name="suerte_18">En la vastedad del espacio, encuentra inspiración en la simplicidad;
+        como dijo Seneca, "La felicidad es aprender a disfrutar de lo simple."</string>
+    <string name="suerte_19">Las estrellas susurran secretos a aquellos que escuchan en silencio;
+        practica la introspección y descubrirás verdades cósmicas dentro de ti.</string>
+    <string name="suerte_20">Cada desafío es una oportunidad para crecer;
+        como en un juego, aprende de tus derrotas y forja tu camino hacia la victoria.</string>
+    <string name="suerte_21">Mantén la mente abierta como un telescopio explorando el universo; como dijo Carl Sagan,
+        "La diversidad de la ciencia es esencial para el bienestar de la humanidad."</string>
+    <string name="suerte_22">Como una estrella fugaz, tu luz brilla intensamente en momentos fugaces;
+        aprovecha cada oportunidad y deja una huella resplandeciente en el cosmos.</string>
+    <string name="suerte_23">Las constelaciones revelan historias antiguas;
+        escribe tu propia historia con la tinta de la determinación y la sabiduría estoica.</string>
+    <string name="suerte_24">En la inmensidad del espacio, encuentra consuelo en la conexión con otros;
+        como Carl Sagan dijo, "Estamos todos juntos en esto, navegando por el cosmos."</string>
+    <string name="suerte_25">Recuerda, la autodisciplina es la llave maestra;
+        como un jugador estratégico, toma el control de tu destino y alcanza las estrellas.</string>
+    <string name="suerte_26">Como las leyes de Newton, cada acción tiene una reacción;
+        elige tus acciones sabiamente y moldea tu destino cósmico.</string>
+    <string name="suerte_27">La vida es un juego de ajedrez cósmico; como un gran maestro,
+        anticipa los movimientos del universo y juega tus cartas con astucia.</string>
+    <string name="suerte_28">La belleza yace en la simplicidad de las leyes cósmicas;
+        encuentra la belleza en la simplicidad de tu propio viaje y celebra cada pequeño triunfo.</string>
+    <string name="suerte_29">En la órbita de tu existencia, la resistencia es la clave; como dijo Séneca,
+        "No es que tengamos poco tiempo, sino que perdemos mucho."</string>
+    <string name="suerte_30">En el universo de posibilidades, elige tu camino con sabiduría estoica; como Carl Sagan nos recordó,
+        "Somos una manera para que el cosmos se conozca a sí mismo."</string>
+    <string name="suerte_31">Como las estrellas que brillan en la noche más oscura, tu resiliencia iluminará incluso los momentos más difíciles;
+        recuerda las palabras de Epicteto, "No podemos elegir nuestras circunstancias,
+        pero podemos elegir nuestra respuesta", y encuentra fortaleza en tu capacidad de elección.</string>
+
 </resources>
